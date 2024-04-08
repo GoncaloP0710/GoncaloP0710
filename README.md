@@ -76,9 +76,12 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/urfolio)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Admpor)
+
+[![urFolio](https://github.com/GoncaloP0710/SC_Projeto_1/blob/main/README.md?username=GoncaloP0710&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/SC_Projeto_1)
+
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/web-projects)
+
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=GoncaloP0710&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/GoncaloP0710)
 
 <p align="left">
@@ -108,4 +111,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoncaloP0710&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GoncaloP0710's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoncaloP0710&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
