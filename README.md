@@ -79,10 +79,6 @@
 [![LEITunes](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=LEITunes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/LEITunes)
 [![ServerClientProject](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ServerClientProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ServerClientProject)
 
-<p align="left">
-  <a href="https://github.com/GoncaloP0710?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=0D1117"/></a>
-</p>
-
 <br/>
 <hr/>
 <br/>
