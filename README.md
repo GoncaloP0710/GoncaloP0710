@@ -75,10 +75,11 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 <br/>
 
-## Top Open Source -
-[LEITunes](https://github.com/GoncaloP0710/LEITunes)
+## 🚀 Top Open Source Projects
 
-[Admpor](https://github.com/GoncaloP0710/Admpor)
+1. [![LEITunes](https://img.shields.io/badge/LEITunes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/LEITunes)
+
+2. [![Admpor](https://img.shields.io/badge/Admpor-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/Admpor)
 
 <p align="left">
   <a href="https://github.com/GoncaloP0710?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
