@@ -77,9 +77,8 @@
 
 ## 🚀 Top Open Source Projects
 
-1. [![LEITunes](https://img.shields.io/badge/LEITunes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/LEITunes)
-
-2. [![Admpor](https://img.shields.io/badge/Admpor-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/Admpor)
+![LEITunes](https://img.shields.io/badge/LEITunes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/LEITunes)
+![Admpor](https://img.shields.io/badge/Admpor-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/Admpor)
 
 <p align="left">
   <a href="https://github.com/GoncaloP0710?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
