@@ -76,13 +76,9 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Admpor)
+[LEITunes](https://github.com/GoncaloP0710/LEITunes)
 
-[![SC_Projeto_1](https://github.com/GoncaloP0710/SC_Projeto_1/blob/main/README.md)](https://github.com/GoncaloP0710/SC_Projeto_1)
-
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/web-projects)
-
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=GoncaloP0710&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/GoncaloP0710)
+[Admpor](https://github.com/GoncaloP0710/Admpor)
 
 <p align="left">
   <a href="https://github.com/GoncaloP0710?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
