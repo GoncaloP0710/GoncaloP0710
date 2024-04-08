@@ -27,24 +27,18 @@
 </h3>
 
 <p align="center">
- <a href="https://GoncaloP0710.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="GoncaloP0710" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoncaloP0710"/>
  </a>
  <!-- <a href="https://dev.to/GoncaloP0710" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="GoncaloP0710" />
  </a> -->
- <a href="https://twitter.com/_GoncaloP0710" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=MAL&logoColor=white" />
  </a>
- <a href="https://instagram.com/_GoncaloP0710" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="GoncaloP0710" />
+ <a href="https://act.hoyolab.com/app/community-game-records-sea/rpg/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&gid=6&user_id=328321938&utm_source=hoyolab&utm_medium=gamecard&bbs_theme=dark&bbs_theme_device=1#/hsr" target="_blank">
+  <img src="https://img.shields.io/badge/Honkai Star Rail-fe4164?style=for-the-badge&logo=Honkai&logoColor=white" alt="GoncaloP0710" />
  </a> 
- <a href="https://facebook.com/GoncaloP0710.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="GoncaloP0710"  />
-  </a> 
 </p>
 <br />
 
