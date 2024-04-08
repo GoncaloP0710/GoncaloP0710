@@ -78,7 +78,7 @@
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Admpor)
 
-[![urFolio](https://github.com/GoncaloP0710/SC_Projeto_1/blob/main/README.md?username=GoncaloP0710&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/SC_Projeto_1)
+[![SC_Projeto_1](https://github.com/GoncaloP0710/SC_Projeto_1/blob/main/README.md)](https://github.com/GoncaloP0710/SC_Projeto_1)
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/web-projects)
 
