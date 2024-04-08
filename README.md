@@ -65,7 +65,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,9 +76,9 @@
 
 ## 🚀 Top Open Source Projects
 
-[![LEITunes](https://img.shields.io/badge/LEITunes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/LEITunes)
+[![LEITunes](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=LEITunes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/LEITunes)
 
-[![Admpor](https://img.shields.io/badge/Admpor-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoncaloP0710/Admpor)
+[![ServerClientProject](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ServerClientProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ServerClientProject)
 
 <p align="left">
   <a href="https://github.com/GoncaloP0710?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
