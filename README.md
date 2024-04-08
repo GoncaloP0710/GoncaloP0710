@@ -87,12 +87,14 @@
 <hr/>
 <br/>
 
-<a href="https://github.com/GoncaloP0710">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoncaloP0710&theme=radical&border=7F3FBF&background=0D1117" alt="GoncaloP0710's GitHub streak"/>
-</a>
+<a> 
+  <a href="https://github.com/GoncaloP0710">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoncaloP0710&theme=radical&border=7F3FBF&background=0D1117" alt="GoncaloP0710's GitHub streak"/>
+  </a>
 
-<a href="https://github.com/GoncaloP0710">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoncaloP0710&theme=radical" alt="GoncaloP0710's GitHub Contribution"/>
+  <a href="https://github.com/GoncaloP0710">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoncaloP0710&theme=radical" alt="GoncaloP0710's GitHub Contribution"/>
+  </a>
 </a>
 
 <a> 
