@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoncaloP0710"/>
  </a>
 
-<a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Anime%20List-2E51A2
+ <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" />
+ </a>
 
 ## Use To Code
 
