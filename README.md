@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" />
  </a>
 
-<a href="discordapp.com/users/665648280146935839" target="_blank">
+<a href="https://discord.com/users/665648280146935839" target="_blank">
   <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
 
