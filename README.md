@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" />
  </a>
 
+<a href="discordapp.com/users/665648280146935839" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
