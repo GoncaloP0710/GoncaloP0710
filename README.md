@@ -14,6 +14,11 @@
  📧 &emsp; Reach me anytime: goncalopinto07102003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)
 
+<br/>
+<br/>
+
+## Socials
+
  <p align="left">
  <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoncaloP0710"/>
