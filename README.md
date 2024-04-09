@@ -1,5 +1,5 @@
 <!-- Intro  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Gonçalo+Pinto;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Gonçalo+Pinto;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
 
 <br />
 
@@ -21,8 +21,6 @@
  <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
   <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=MAL&logoColor=white" />
  </a>
-</p>
-
 </p>
 
 <br/>
