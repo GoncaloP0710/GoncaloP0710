@@ -13,11 +13,11 @@
  ❤️ &emsp; Love to write code and learn new features<br/><br/>
  📧 &emsp; Reach me anytime: goncalopinto07102003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)
-
+ 🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt) <br/><br/>
 <br/>
 <br/>
 
-## Socials
+ # Socials
 
  <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoncaloP0710"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-## Use To Code
+ # Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -49,7 +49,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 <br/>
 
-## 🚀 Top Open Source Projects
+ # 🚀 Top Open Source Projects
 
 [![LEITunes](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=LEITunes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/LEITunes)
 [![ServerClientProject](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ServerClientProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ServerClientProject)
