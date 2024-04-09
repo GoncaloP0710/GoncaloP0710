@@ -14,8 +14,6 @@
  📧 &emsp; Reach me anytime: goncalopinto07102003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)<br/><br/>
  🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt) <br/><br/>
-<br/>
-<br/>
 
  # Socials
 
