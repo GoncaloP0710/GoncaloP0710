@@ -28,7 +28,7 @@
  </a>
 
 <a href="https://discord.com/users/665648280146935839" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
 
 ## Use To Code
