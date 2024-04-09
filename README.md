@@ -5,19 +5,15 @@
         </samp>
 </h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Gonçalo+Pinto;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+
 <p align="center">
  <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GoncaloP0710"/>
  </a>
- <!-- <a href="https://dev.to/GoncaloP0710" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="GoncaloP0710" />
- </a> -->
  <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
   <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=MAL&logoColor=white" />
  </a>
- <a href="https://act.hoyolab.com/app/community-game-records-sea/rpg/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&gid=6&user_id=328321938&utm_source=hoyolab&utm_medium=gamecard&bbs_theme=dark&bbs_theme_device=1#/hsr" target="_blank">
-  <img src="https://img.shields.io/badge/Honkai Star Rail-fe4164?style=for-the-badge&logo=Honkai&logoColor=white" alt="GoncaloP0710" />
- </a> 
 </p>
 <br />
 
