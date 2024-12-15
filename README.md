@@ -49,8 +49,8 @@
 
  # 🚀 Top Open Source Projects
 
-[![LEITunes](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=LEITunes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/LEITunes)
-[![ServerClientProject](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ServerClientProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ServerClientProject)
+[![ZapDistribuido](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ZapDistribuido)
+[![Honkai-Starbucks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Honkai-Starbucks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Honkai-Starbucks)
 
 <br/>
 <hr/>
