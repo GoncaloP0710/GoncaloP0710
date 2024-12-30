@@ -7,7 +7,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/chi.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/minato.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to program and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to write code and learn new features<br/><br/>
