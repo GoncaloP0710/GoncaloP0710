@@ -1,4 +1,4 @@
-name: Anilist
+name: Manga
 
 on:
   schedule: [{cron: "0 0 * * *"}]
