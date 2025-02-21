@@ -16,4 +16,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_anilist: yes
-          plugin_anilist_user: GoncaloP0710 # Your AniList username
+          plugin_anilist_user: GoncaloP0710
+      - name: Commit metrics
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add github-metrics.svg
+          git commit -m "Update metrics"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
