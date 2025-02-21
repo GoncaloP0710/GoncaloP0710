@@ -1,0 +1,21 @@
+name: Characters
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+  workflow_dispatch:
+ 
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.characters.svg          
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: GoncaloP0710
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 12
