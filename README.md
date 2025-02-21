@@ -68,3 +68,12 @@
   ![Anilist Anilist](https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg)
 
   ![Anilist Manga](https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg)
+
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
+      <details><summary>For manga readers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
+      <details open><summary>For waifus simp</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
