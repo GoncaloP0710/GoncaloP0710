@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           plugin_anilist: yes

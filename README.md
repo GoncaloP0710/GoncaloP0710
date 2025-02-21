@@ -65,6 +65,6 @@
   <img src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
 </div>
 
-  ![Anilist Anilist](https://github.com/GoncaloP0710/GoncaloP0710/blob/main/github-anilist.svg)
+  ![Anilist Anilist](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.svg)
 
-  ![Anilist Manga](https://github.com/GoncaloP0710/GoncaloP0710/blob/main/github-manga.svg)
+  ![Anilist Manga](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.anilist.manga.svg)
