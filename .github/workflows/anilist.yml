@@ -14,7 +14,6 @@ jobs:
         with:
           filename: metrics.plugin.anilist.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
           plugin_anilist: yes
           plugin_anilist_user: GoncaloP0710
           plugin_anilist_medias: anime
