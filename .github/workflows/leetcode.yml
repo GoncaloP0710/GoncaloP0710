@@ -17,4 +17,4 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: GoncaloP0710
-          plugin_leetcode_sections: contests, problems, statistics
+          plugin_leetcode_sections: solved, skills, recent
