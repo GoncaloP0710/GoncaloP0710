@@ -1,34 +1,31 @@
-- name: Favorites anime and currently watching
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.anilist.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_anilist: yes
-    plugin_anilist_user: GoncaloP0710
-    plugin_anilist_medias: anime
-    plugin_anilist_sections: favorites, watching
-    plugin_anilist_limit: 1
+name: Metrics
 
-- name: Favorites manga and currently reading
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.anilist.manga.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_anilist: yes
-    plugin_anilist_user: GoncaloP0710
-    plugin_anilist_medias: manga
-    plugin_anilist_sections: favorites, reading
-    plugin_anilist_limit: 1
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+  workflow_dispatch:
 
-- name: Favorites characters
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.anilist.characters.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_anilist: yes
-    plugin_anilist_user: GoncaloP0710
-    plugin_anilist_sections: characters
-    plugin_anilist_limit_characters: 22
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_anilist: yes
+          plugin_anilist_user: GoncaloP0710
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
+
+      - name: Commit metrics
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add github-metrics.svg || exit 0
+          git diff --staged --quiet || (git commit -m "Update metrics" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
