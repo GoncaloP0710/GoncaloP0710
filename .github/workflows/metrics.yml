@@ -17,6 +17,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_anilist: yes
           plugin_anilist_user: GoncaloP0710
+          settings: |
+            {
+              "metrics.run.puppeteer.scrapping": true
+            }
       - name: Commit metrics
         run: |
           git config --global user.name 'github-actions[bot]'
