@@ -15,10 +15,6 @@
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)<br/><br/>
  🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt) <br/><br/>
 
- <p align="left">
-  <img width="320" height="445" src="https://spotify-github-profile.Gonçalo_Pinto0710.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-</p>
-
  # Socials
 
  <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
@@ -55,3 +51,5 @@
 
 [![ZapDistribuido](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ZapDistribuido)
 [![Honkai-Starbucks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Honkai-Starbucks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Honkai-Starbucks)
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
