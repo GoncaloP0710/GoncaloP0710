@@ -18,5 +18,5 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: GoncaloP0710
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching
+          plugin_anilist_sections: favorites, watching, reading, planning, completed
           plugin_anilist_limit: 5
