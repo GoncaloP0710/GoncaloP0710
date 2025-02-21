@@ -16,4 +16,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_anilist: yes
-          plugin_anilist_user: GoncaloP0710
+          plugin_anilist_user: GoncaloP0710 # Your AniList username
