@@ -15,6 +15,10 @@
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)<br/><br/>
  🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt) <br/><br/>
 
+ <p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.Gonçalo_Pinto0710.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+
  # Socials
 
  <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
