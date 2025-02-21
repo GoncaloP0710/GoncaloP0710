@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_anilist: yes
+          plugin_anilist_user: GoncaloP0710
