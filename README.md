@@ -52,4 +52,4 @@
 [![ZapDistribuido](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/ZapDistribuido)
 [![Honkai-Starbucks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Honkai-Starbucks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Honkai-Starbucks)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default)
