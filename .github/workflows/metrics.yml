@@ -1,9 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  push:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   github-metrics:
@@ -20,12 +19,3 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 5
-
-      - name: Commit metrics
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-metrics.svg || exit 0
-          git diff --staged --quiet || (git commit -m "Update metrics" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
