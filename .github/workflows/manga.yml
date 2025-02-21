@@ -1,4 +1,4 @@
-name: Metrics
+name: Anilist
 
 on:
   schedule: [{cron: "0 0 * * *"}]
@@ -14,9 +14,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: header, activity, community, repositories, metadata
           plugin_anilist: yes
           plugin_anilist_user: GoncaloP0710
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, planning, completed
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading, planning, completed
           plugin_anilist_limit: 5
