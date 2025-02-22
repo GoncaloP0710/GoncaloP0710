@@ -42,12 +42,12 @@
 <tr>
   <td colspan="2" align="left">
     <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt=""></img>
-    <img width="700" height="1" alt="">
+    <img width="500" height="1" alt="">
   </td>
 
   <td colspan="2" align="right">
     <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
-    <img width="700" height="1" alt="">
+    <img width="500" height="1" alt="">
   </td>
 </tr>
 
