@@ -37,7 +37,7 @@
 <br><br>
 <br><br>
 
-# 💻 Tech Stack
+# 💻 Tech Stats
 
 <div>
   <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
@@ -52,10 +52,10 @@
 [![Honkai-Starbucks](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Honkai-Starbucks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Honkai-Starbucks)
 -->
 
-# 🎮 Interests & Stats
+# 🎮 Interests
 
 <div>
-  <img width="399" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
+  <img width="150" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
 
   <details open><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
   <details><summary>For manga readers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
