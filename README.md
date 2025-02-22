@@ -17,7 +17,7 @@
 
 # 📡 Connect with Me
 
-<img align="left" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
+<img align="left" width="300" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
 
 <p align="right">
   <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
