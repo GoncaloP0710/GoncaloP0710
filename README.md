@@ -55,11 +55,11 @@
 # 🎮 Interests
 
 <div>
-  <img width="150" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
+  <img width="250" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
 
-  <details open><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
+  <details><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
   <details><summary>For manga readers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-  <details open><summary>For waifus simp</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+  <details><summary>For waifus simp</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
   <img width="900" height="1" alt="">
 <div>
 
