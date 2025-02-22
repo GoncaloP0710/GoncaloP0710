@@ -54,10 +54,14 @@
 
 # 🎮 Interests
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img width="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
-    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
-    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img>
-    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt=""></img>
+
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="">
+    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt="">
+    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt="">
+    <img width="250" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="">
+  </div>
 </div>
+
