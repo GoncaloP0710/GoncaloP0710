@@ -18,4 +18,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_token : ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: GoncaloP0710
-          plugin_steam_sections: recently-played, top-played
+          plugin_steam_sections: recently-played
