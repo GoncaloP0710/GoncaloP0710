@@ -13,7 +13,7 @@
  ❤️ &emsp; Love to write code and learn new features<br/><br/>
  📧 &emsp; Reach me anytime: goncalopinto07102003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)<br/><br/>
- 🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt) <br/><br/>
+ 🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt)
 
 # 📡 Connect with Me
 
@@ -38,7 +38,6 @@
 
 <br><br>
 <br><br>
-<br><br>
 
 # 💻 Tech Stack
 
@@ -56,7 +55,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-<br/>
 
 <tr>
   <td colspan="2" align="center">
