@@ -1,8 +1,6 @@
 <!-- Intro  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Gonçalo+Pinto;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
 
-<br />
-
 <!-- About Section -->
 # 🚀 About me
  
@@ -21,16 +19,24 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;"/>
+    <div style="display: inline-block; border-radius: 15px; overflow: hidden;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </div>
   </a>
   <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" style="border-radius: 50px;"/>
+    <div style="display: inline-block; border-radius: 15px; overflow: hidden;">
+      <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" />
+    </div>
   </a>
   <a href="https://discord.com/users/665648280146935839" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 50px;"/>
+    <div style="display: inline-block; border-radius: 15px; overflow: hidden;">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </div>
   </a>
   <a href="mailto:goncalopinto07102003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;"/>
+    <div style="display: inline-block; border-radius: 15px; overflow: hidden;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </div>
   </a>
 </div>
 
