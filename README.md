@@ -40,9 +40,9 @@
 # 💻 Tech Stack
 
 <div>
-    <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
-    <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
-  </div>
+  <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
+  <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
+</div>
 
 # 🏆 Open Source Projects
 
@@ -54,18 +54,14 @@
 
 # 🎮 Interests & Stats
 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
-</div>
+<div>
+  <img width="399" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;">
 
-<tr>
-  <td colspan="2" align="center">
-    <details open><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
-    <details><summary>For manga readers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-    <details open><summary>For waifus simp</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
-    <img width="900" height="1" alt="">
-  </td>
-</tr>
+  <details open><summary>For anime watchers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt=""></img></details>
+  <details><summary>For manga readers</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
+  <details open><summary>For waifus simp</summary><img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+  <img width="900" height="1" alt="">
+<div>
 
 <tr>
   <td colspan="2" align="center">
