@@ -40,8 +40,8 @@
 # 💻 Tech Stack
 
 <div>
-    <img width="320" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
-    <img width="320" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
+    <img width="450" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
+    <img width="450" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
   </div>
 
 # 🏆 Open Source Projects
