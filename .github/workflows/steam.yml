@@ -1,0 +1,21 @@
+name: Steam
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_steam: yes
+          plugin_steam_token : ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: GoncaloP0710
+          plugin_steam_sections: recently-played, top-played

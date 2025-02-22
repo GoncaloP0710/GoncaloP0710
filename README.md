@@ -75,8 +75,15 @@
 </tr>
 
 <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt=""></img>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
+  <td colspan="2" align="center">
+    <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
