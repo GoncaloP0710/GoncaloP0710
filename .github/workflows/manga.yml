@@ -19,4 +19,4 @@ jobs:
           plugin_anilist_user: GoncaloP0710
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading, planning, completed
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 2
