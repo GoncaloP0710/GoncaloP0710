@@ -39,27 +39,17 @@
 
 # 💻 Tech Stack
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-    ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-    ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-    ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-  </div>
-  <div>
-    <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 100%;"/>
-  </div>
-</div>
+<tr>
+  <td colspan="2" align="left">
+    <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+
+  <td colspan="2" align="right">
+    <img src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
 
 # 🏆 Open Source Projects
 
