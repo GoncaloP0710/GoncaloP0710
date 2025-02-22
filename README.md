@@ -46,14 +46,16 @@
 
 # 🏆 Open Source Projects
 
+<!--
 <img align="right" width="270" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
+-->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://github.com/GoncaloP0710/ZapDistribuido">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="ZapDistribuido" style="width: 55%; min-width: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="ZapDistribuido" style="width: 49%; min-width: 300px;"/>
   </a>
   <a href="https://github.com/GoncaloP0710/Mobile-Dungeons.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Mobile-Dungeons&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mobile-Dungeons" style="width: 55%; min-width: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Mobile-Dungeons&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mobile-Dungeons" style="width: 49%; min-width: 300px;"/>
   </a>
 </div>
 
