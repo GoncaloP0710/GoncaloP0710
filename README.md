@@ -50,7 +50,7 @@
 <img align="right" width="270" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
 -->
 
- <img align="right" width="400" src="/assets/blue-box-ao-no-hako.gif" alt="Coding gif" />
+ <img align="right" width="320" src="/assets/blue-box-ao-no-hako.gif" alt="Coding gif" />
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://github.com/GoncaloP0710/ZapDistribuido">
