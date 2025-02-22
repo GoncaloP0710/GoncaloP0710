@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<img align="right" width="200" src="/assets/lucy.png" alt="cyberpunk" />
+<img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
 
 <br><br>
 <br><br>
