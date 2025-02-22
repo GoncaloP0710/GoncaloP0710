@@ -50,13 +50,14 @@
 
 [![Mobile-Dungeons](https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Mobile-Dungeons&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GoncaloP0710/Mobile-Dungeons.git)
 
+  <img align="right" width="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
+
 # 🎮 Interests
 
 <div>
-    <img align="left" width="470" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="">
-    <img align="right" width="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
-    <img align="left" width="470" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt="">
-    <img align="left" width="470" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt="">
+    <img align="left" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="">
+    <img align="left" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt="">
+    <img align="left" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt="">
     <!--
     <img align="right" width="470" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="">
     -->
