@@ -18,30 +18,9 @@
 <!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
-<img align="left" width="400" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
+<img align="left" width="380" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
 
-<div style="margin-top: 20px;">
-  <div style="margin-bottom: 90px;">
-    <a href="https://www.linkedin.com/in/gonçalo-pinto-9528ba301/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;"/> <br/><br/>
-    </a>
-  </div>
-  <div style="margin-bottom: 90px;">
-    <a href="https://myanimelist.net/profile/Goncalop0710" target="_blank">
-      <img src="https://img.shields.io/badge/My%20Anime%20List-1DA1F2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList" style="border-radius: 50px;"/> <br/><br/>
-    </a>
-  </div>
-  <div style="margin-bottom: 90px;">
-    <a href="https://discord.com/users/665648280146935839" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 50px;"/> <br/><br/>
-    </a>
-  </div>
-  <div style="margin-bottom: 90px;">
-    <a href="mailto:goncalopinto07102003@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;"/>
-    </a>
-  </div>
-</div>
+<img align="right" width="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
 
 <!-- 
 <img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
