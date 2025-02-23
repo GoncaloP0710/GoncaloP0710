@@ -18,7 +18,7 @@
 <!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
-<img align="left" width="350" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
+<img align="left" width="400" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
 
 <div style="margin-top: 20px;">
   <div style="margin-bottom: 90px;">
@@ -38,7 +38,7 @@
   </div>
   <div style="margin-bottom: 90px;">
     <a href="mailto:goncalopinto07102003@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;"/> <br/><br/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px;"/>
     </a>
   </div>
 </div>
