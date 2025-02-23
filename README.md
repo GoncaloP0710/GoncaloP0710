@@ -59,7 +59,7 @@
 <!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
-<div style="display: flex; align-items: center; gap: 40px;">
+<div style=" gap: 40px;">
 
   <img width="310" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 10px;">
 
