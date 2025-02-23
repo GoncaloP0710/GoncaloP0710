@@ -62,9 +62,9 @@
 <div>
   <img width="330" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif">
 
-  <img width="368" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" >
+  <img width="370" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" >
 
-  <img width="140" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+  <img width="135" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
   
 </div>
 <!-- 
