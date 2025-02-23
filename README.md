@@ -15,18 +15,6 @@
  🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt)
 
 <br><br>
-<!-- Connect with Me Section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
-
-<img align="left" width="380" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
-
-<img align="right" width="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
-
-<!-- 
-<img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
--->
-
-<br><br>
 <!-- Tech Stats Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%92%BB+Tech+Stats" alt="Typing SVG"/>
 
@@ -64,4 +52,17 @@
     <img align="left" width="550" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.characters.svg" alt="">
 </div>
 
+-->
+
+
+<br><br>
+<!-- Connect with Me Section -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
+
+<img align="left" width="380" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
+
+<img align="right" width="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px;"/>
+
+<!-- 
+<img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
 -->
