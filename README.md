@@ -61,6 +61,9 @@
 
 <div>
   <img align="left" width="310" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 40px; margin-right: 40px; ">
+  <div>
+    
+  <div>
 
   <img width="350" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px; margin-right: 300px; margin-left: 300px;">
 
