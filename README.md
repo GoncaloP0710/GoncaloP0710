@@ -1,6 +1,7 @@
 <!-- Intro  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Gonçalo+Pinto;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
 
+<br><br>
 <!-- About Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%9A%80+About+me)](https://git.io/typing-svg)
  
@@ -13,6 +14,7 @@
  💬 &emsp; Ask me about anything [here](https://github.com/GoncaloP0710/GoncaloP0710/issues)<br/><br/>
  🎓 &emsp; Studying at [Faculdade de Ciências](https://ciencias.ulisboa.pt)
 
+<br><br>
 <!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
@@ -38,6 +40,7 @@
 <br><br>
 <br><br>
 
+<br><br>
 <!-- Tech Stats Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%92%BB+Tech+Stats" alt="Typing SVG"/>
 
@@ -46,6 +49,7 @@
   <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
 </div>
 
+<br><br>
 <!-- Open Source Projects Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%8F%86+Open+Source+Projects" alt="Typing SVG"/>
 
