@@ -59,7 +59,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
 <div style="display: flex; align-items: center;">
-  <img align="left" width="370" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px; margin-right: 20px;">
+  <img align="left" width="320" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px; margin-right: 20px;">
   <img width="135" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px; margin-right: 20px;">
   <img width="320" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 10px;">
 </div>
