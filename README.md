@@ -33,7 +33,7 @@
 
  <img align="left" width="325" src="/assets/ao-no-hako-blue-box.gif" alt="Coding gif" />
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://github.com/GoncaloP0710/ZapDistribuido">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="ZapDistribuido" style="width: 49%; min-width: 300px;"/>
   </a>
@@ -60,8 +60,8 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" width="370" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px; margin-right: 20px;">
-  <img width="125" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px; margin-right: 20px;">
-  <img width="250" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 10px;">
+  <img width="135" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px; margin-right: 20px;">
+  <img width="320" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 10px;">
 </div>
 <!-- 
 <img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
