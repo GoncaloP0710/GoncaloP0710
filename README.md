@@ -18,7 +18,7 @@
 <!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
-<img align="left" width="400" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
+<img align="left" width="350" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px;">
 
 <div style="margin-top: 20px;">
   <div style="margin-bottom: 10px;">
@@ -43,7 +43,9 @@
   </div>
 </div>
 
+<!-- 
 <img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
+-->
 
 <br><br>
 <br><br>
