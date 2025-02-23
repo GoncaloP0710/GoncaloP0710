@@ -64,7 +64,7 @@
 
   <img width="360" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="margin-right: 300px; margin-left: 300px;">
 
-  <img align="right" width="145" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="margin-right: 40px; margin-left: 40px;">
+  <img align="right" width="142" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="margin-right: 40px; margin-left: 40px;">
   
 </div>
 <!-- 
