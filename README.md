@@ -20,6 +20,7 @@
 
 <div>
   <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.isocalendar.svg" alt="" style="max-width: 60%;"/>
+
   <img width="399" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.leetcode.svg" alt="" style="max-width: 60%;"/>
 </div>
 
@@ -59,12 +60,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
 <div>
-
-  <img align="left" width="310" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 40px; margin-right: 40px;">
+  <img align="left" width="310" src="/assets/cyberpunk-cyberpunk-anime.gif" alt="Coding gif" style="border-radius: 40px; margin-right: 40px; margin-left: 40px;">
 
   <img width="350" src="https://lanyard.kyrie25.dev/api/665648280146935839?useDisplayName=true&gradient=7573F0" style="border-radius: 10px; margin-right: 40px; margin-left: 40px;">
 
-  <img align="right" width="130" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px; margin-right: 40px;">
+  <img align="right" width="130" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true" style="border-radius: 10px; margin-right: 40px; margin-left: 40px;">
   
 </div>
 <!-- 
