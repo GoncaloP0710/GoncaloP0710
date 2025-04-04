@@ -55,8 +55,9 @@
 
 -->
 
+<!--
+
 <br><br>
-<!-- Connect with Me Section -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7573F0&width=435&lines=%F0%9F%93%A1+Connect+with+Me" alt="Typing SVG"/>
 
 <div>
@@ -67,6 +68,10 @@
   <img width="135" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ou286nhno17axfcdx34hv7ea1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
   
 </div>
+
+-->
+
 <!-- 
 <img align="right" width="300" src="/assets/lucy.png" alt="cyberpunk" />
 -->
+
