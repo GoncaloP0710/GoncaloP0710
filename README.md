@@ -38,8 +38,8 @@
   <a href="https://github.com/GoncaloP0710/ZapDistribuido">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=ZapDistribuido&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="ZapDistribuido" style="width: 49%; min-width: 300px;"/>
   </a>
-  <a href="https://github.com/GoncaloP0710/Mobile-Dungeons.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Mobile-Dungeons&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mobile-Dungeons" style="width: 49%; min-width: 300px;"/>
+  <a href="https://github.com/GoncaloP0710/Honkai-Starbucks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoncaloP0710&repo=Honkai-Starbucks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Honkai-Starbucks" style="width: 49%; min-width: 300px;"/>
   </a>
 </div>
 
