@@ -12,16 +12,11 @@ Anime has also become a significant part of my life. I've spent countless nights
 
 Beyond watching anime, I've also developed a passion for reading manga, appreciating the incredible artistry and detailed storytelling that goes into each panel and chapter.
 
-<table cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <!-- Left Column -->
-    <td align="center" width="35%">
-      <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" alt="Manga Reading"/>
-    </td>
-    <!-- Right Column -->
-    <td align="center" width="35%">
-      <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.svg" alt="Anime Watching"/><br><br>
-      <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
-    </td>
-  </tr>
-</table>
+<img align="left" width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" />
+
+<div align="right">
+  <img width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.svg" /><br>
+  <img width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.steam.svg" />
+</div>
+
+<br clear="all">
