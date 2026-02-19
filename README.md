@@ -4,7 +4,7 @@ Passionate about Linux and workspace customization, with a strong preference for
 
 Contact me: goncalopinto07102003@gmail.com
 
-## Hobbies
+#### Hobbies
 
 My gaming journey began with the original DS, where I spent countless hours playing FIFA 07. The transition to the 3DS brought some of my most cherished gaming memories with thrilling matches in Inazuma Eleven Chrono Stones and exploring the Alola region in Pokémon Sun. There's something deeply nostalgic about those handheld gaming sessions that modern gaming just can't replicate.
 
