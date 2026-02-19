@@ -15,12 +15,11 @@ Beyond watching anime, I've also developed a passion for reading manga, apprecia
 <table>
   <tr>
     <!-- Left Column -->
-    <td align="center" width="50%">
+    <td align="center" width="35%">
       <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" alt="Manga Reading"/>
     </td>
-
     <!-- Right Column -->
-    <td align="center" width="50%">
+    <td align="center" width="35%">
       <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.svg" alt="Anime Watching"/><br><br>
       <img width="90%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
     </td>
