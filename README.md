@@ -4,7 +4,7 @@ Passionate about Linux and workspace customization, with a strong preference for
 
 Contact me: goncalopinto07102003@gmail.com
 
-#### Hobbies
+## Hobbies
 
 My gaming journey began with the original DS, where I spent countless hours playing FIFA 07. The transition to the 3DS brought some of my most cherished gaming memories with thrilling matches in Inazuma Eleven Chrono Stones and exploring the Alola region in Pokémon Sun. There's something deeply nostalgic about those handheld gaming sessions that modern gaming just can't replicate.
 
@@ -15,12 +15,12 @@ Beyond watching anime, I've also developed a passion for reading manga, apprecia
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <!-- Left Column - Manga -->
   <div style="flex: 1;">
-    <img width="45%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt="Manga Reading"/>
+    <img width="10%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.manga.svg" alt="Manga Reading"/>
   </div>
   
   <!-- Right Column - Anime and Steam stacked -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
-    <img width="15%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="Anime Watching"/>
-    <img width="15%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
+    <img width="10%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="Anime Watching"/>
+    <img width="10%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
   </div>
 </div>
