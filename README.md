@@ -20,7 +20,7 @@ Beyond watching anime, I've also developed a passion for reading manga, apprecia
   
   <!-- Right Column - Anime and Steam stacked -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
-    <img width="45%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="Anime Watching"/>
-    <img width="50%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
+    <img width="15%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.anilist.svg" alt="Anime Watching"/>
+    <img width="15%" src="https://github.com/GoncaloP0710/GoncaloP0710/blob/main/metrics.plugin.steam.svg" alt="Steam Gaming"/>
   </div>
 </div>
