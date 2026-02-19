@@ -12,7 +12,7 @@ Anime has also become a significant part of my life. I've spent countless nights
 
 Beyond watching anime, I've also developed a passion for reading manga, appreciating the incredible artistry and detailed storytelling that goes into each panel and chapter.
 
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <!-- Left Column -->
     <td align="center" width="35%">
