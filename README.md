@@ -4,8 +4,6 @@ Passionate about Linux and workspace customization, with a strong preference for
 
 Contact me: goncalopinto07102003@gmail.com
 
-#### Hobbies
-
 <img align="left" width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" />
 
 <div align="right">
