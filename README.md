@@ -4,11 +4,11 @@ Passionate about Linux and workspace customization, with a strong preference for
 
 Contact me: goncalopinto07102003@gmail.com
 
-<img align="left" width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" />
+<!-- <img align="left" width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.manga.svg" />
 
 <div align="right">
   <img width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.anilist.svg" /><br>
   <img width="45%" src="https://raw.githubusercontent.com/GoncaloP0710/GoncaloP0710/main/metrics.plugin.steam.svg" />
 </div>
 
-<br clear="all">
+<br clear="all"> -->
